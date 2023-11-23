@@ -1,0 +1,37 @@
+{
+    "fromfull": "info@ortholab.nl",
+    "encabezados": {
+        "cc": "",
+        "date": "Jueves, 23 de noviembre de 2023 05:15:02 +0100",
+        "codificación-transferencia-de-contenido": "8Bit",
+        "subject": "Demo verlopen: demo-4509 (Coen Tobsky)",
+        "recibió": [
+            "de prod1.acato.cloud([31.7.5.242])\r\n por mail.mailinator.com con SMTP (Mailinator)\r\n para 12012665909@mailinator.com;\r\n jueves, 23 de noviembre de 2023 04 :14:58 +0000 (UTC)",
+            "de clsolab por prod1.acato.cloud con local (Exim 4.96.1-7-g79877b70e)\r\n\t(sobre-de <clsolab@tlossebandje.nl>)\r\n\tid 1r617G-000H3i-1v \r\n\tfor 12012665909@mailinator.com;\r\n\tJueves, 23 de noviembre de 2023 05:15:02 +0100"
+        ],
+        "de": "info@ortholab.nl",
+        "content-type": "multipart/alternative;\r\n charset=utf-8;\r\n border=\"731060e352570d9e0b881c8764609a59\"",
+        "a": "Coen Tobsky<12012665909@mailinator.com>,",
+        "responder a": "info@ortholab.nl"
+    },
+    "subject": "Demo verlopen: demo-4509 (Coen Tobsky)",
+    "IP": "31.7.5.242",
+    "segundos_ago": 713,
+    "identificador de solicitud": "224350",
+    "partes": [
+        {
+            "headers": "texto/sin formato; charset=\"utf-8\"",
+            "cuerpo": "adjunto eliminado"
+        },
+        {
+            "headers": "texto/sin formato; charset=\"utf-8\"",
+            "cuerpo": "adjunto eliminado"
+        }
+    ],
+    "de": "info@ortholab.nl",
+    "origfrom": "info@ortholab.nl",
+    "a": "12012665909",
+    "identificación": "12012665909-1700712903-109296419",
+    "tiempo": 1700712903000,
+    "enlaces en los que se puede hacer clic": []
+}
